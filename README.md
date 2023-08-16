@@ -1,5 +1,5 @@
 # Git_cores
-for Learn
+for Learn Git Hub
 
 
-## project Notes
+## project Git
